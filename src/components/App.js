@@ -36,7 +36,7 @@ class App extends Component {
   // Then, set the value of the input back to an empty string.
   // Enter your code below:
 
-  handleSubmit = (e)=> {
+  handleSubmit = (e) => {
     e.preventDefault();
     return this.setState({ pilot: this.state.tempPilot });
   }
