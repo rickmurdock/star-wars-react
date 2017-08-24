@@ -94,4 +94,4 @@ Try adding a 'starships' and 'people' component...
 
 ## Mockup
 
-![starWarsReactMockup.png](starWarsReactMockup.png)
+![starWarsReactMockUp.png](starWarsReactMockUp.png)
