@@ -53,6 +53,7 @@ componentDidMount(){
 
 ### Render  
 
+```jsx
 render() {
   /*
   Store vehicles state in a variable.
@@ -69,6 +70,7 @@ render() {
   );
 }
 }
+```
 
 ### Hint  
 
